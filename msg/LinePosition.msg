@@ -1,5 +1,4 @@
-float64 distance_adjusted # distance of the robot from the line
-float64 orientation # angle of the line in rad
+float64 alpha_line # angle of the line in rad, this is possible to compute.
 
 # information about the line
 # start position of the line
